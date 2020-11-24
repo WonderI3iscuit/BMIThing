@@ -1,0 +1,15 @@
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.csprojAssemblyReference.cache
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\MainWindow.g.cs
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\App.g.cs
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc_MarkupCompile.cache
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc_MarkupCompile.lref
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\bin\Debug\LeBmiCalc.exe.config
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\bin\Debug\LeBmiCalc.exe
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\bin\Debug\LeBmiCalc.pdb
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\MainWindow.baml
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.g.resources
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.Properties.Resources.resources
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.csproj.GenerateResource.cache
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.csproj.CoreCompileInputs.cache
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.exe
+C:\Users\benmc\source\repos\LeBmiCalc\LeBmiCalc\obj\Debug\LeBmiCalc.pdb
